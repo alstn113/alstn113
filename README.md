@@ -1,1 +1,4 @@
-![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=alstn113)
+<div align="center">
+  [![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=alstn113)](https://solved.ac/alstn113)
+</div>
