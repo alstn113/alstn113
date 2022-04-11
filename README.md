@@ -16,12 +16,12 @@
 </div>
 <div>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neko113&layout=compact&theme=tokyonight)
-
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neko113&layout=compact&theme=tokyonight) [<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=alstn113">](https://solved.ac/profile/alstn113)
+  
 </div>
 <div>
 
-  [<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=alstn113">](https://solved.ac/profile/alstn113)
+
 
 </div>
     
