@@ -1,7 +1,7 @@
 <div align="center">
 
 # 김민수 *Kim Min Soo*
-👩‍💻 STUDYING JS(TS) FRONTEND AND BACKEND
+🧑‍💻 STUDYING JS(TS) FRONTEND AND BACKEND
 
 [![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)](https://javascript.info/)
 [![TypeScript Badge](https://img.shields.io/badge/Typescript-235A97?style=flat-square&logo=Typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -19,10 +19,5 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neko113&layout=compact&theme=tokyonight) [<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=alstn113">](https://solved.ac/profile/alstn113)
   
 </div>
-<div>
 
-
-
-</div>
-    
 </div>
