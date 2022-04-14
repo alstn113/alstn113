@@ -7,7 +7,7 @@
 [![TypeScript Badge](https://img.shields.io/badge/Typescript-235A97?style=flat-square&logo=Typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)](https://reactjs.org/)
 [![Next.js Badge](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![NestJs Badge](https://img.shields.io/badge/Nest.js-000000?style=flat-square&logo=Nestjs&logoColor=red)](https://nestjs.com/)
+[![NestJs Badge](https://img.shields.io/badge/Nest-000000?style=flat-square&logo=Nestjs&logoColor=red)](https://nestjs.com/)
 
 <div>
 
