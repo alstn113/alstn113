@@ -9,6 +9,7 @@ STUDYING JS(TS) FRONTEND AND BACKEND
 [![Next.js Badge](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![NestJs Badge](https://img.shields.io/badge/Nestjs-000000?style=flat-square&logo=Nestjs&logoColor=red)](https://nestjs.com/)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 
 <div>
 
