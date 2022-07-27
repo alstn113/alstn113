@@ -1,8 +1,9 @@
 <div align="center">
 
-# 김민수 *Kim Min Soo*
-STUDYING JS(TS) FRONTEND AND BACKEND
+<!-- https://github.com/kyechan99/capsule-render -->
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=3bc9db&height=250&section=header&text=Kim%20Min%20Soo&fontSize=70&fontColor=fff&fontAlignY=35&desc=Studying%20JS(TS)%20Backend%20&%20Frontend&descSize=25)
 
+  
 [![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)](https://javascript.info/)
 [![TypeScript Badge](https://img.shields.io/badge/Typescript-235A97?style=flat-square&logo=Typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)](https://reactjs.org/)
