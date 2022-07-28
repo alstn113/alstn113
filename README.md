@@ -15,20 +15,14 @@
 <table>
   <tr>
     <td valign="top" width="50%">
-      <img src = "https://github-readme-stats.vercel.app/api?username=neko113&show_icons=true&hide_border=true" align="left" style = "width: 100%"/>
+      <img src = "https://github-readme-stats.vercel.app/api?username=neko113&show_icons=true&hide_border=true" align="center"/>
     </td>
     <td valign="top" width="50%">
-      <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=neko113&layout=compact&hide_border=true" align="left" style = "width: 100%"/>
+      <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=neko113&layout=compact&hide_border=true" align="center"/>
     </td>
   </tr>
 </table>  
 
-<img src="https://github-readme-stats.vercel.app/api?username=neko113&show_icons=true&hide_border=true" style="width: 50%; height: 200px;"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neko113&layout=compact&hide_border=true" style="width: 50%; height: 200px;"/>
-
-[<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=alstn113">](https://solved.ac/profile/alstn113)
-
-
-
-
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fneko113%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=alstn113)](https://solved.ac/alstn113) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fneko113%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
