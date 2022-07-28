@@ -12,16 +12,23 @@
 ![NestJs Badge](https://img.shields.io/badge/Nestjs-000000?style=for-the-badge&logo=Nestjs&logoColor=red)
 ![React Native](https://img.shields.io/badge/React_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-<div>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <img src = "https://github-readme-stats.vercel.app/api?username=neko113&show_icons=true&hide_border=true" align="left" style = "width: 100%"/>
+    </td>
+    <td valign="top" width="50%">
+      <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=neko113&layout=compact&hide_border=true" align="left" style = "width: 100%"/>
+    </td>
+  </tr>
+</table>  
 
-  ![neko113's github stats](https://github-readme-stats.vercel.app/api?username=neko113&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=neko113&show_icons=true&hide_border=true" style="width: 50%; height: 200px;"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neko113&layout=compact&hide_border=true" style="width: 50%; height: 200px;"/>
 
-</div>
-<div>
+[<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=alstn113">](https://solved.ac/profile/alstn113)
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neko113&layout=compact&theme=tokyonight) [<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=alstn113">](https://solved.ac/profile/alstn113)
-  
-</div>
+
+
 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fneko113%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
