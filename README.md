@@ -6,8 +6,7 @@
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![TypeScript Badge](https://img.shields.io/badge/Typescript-235A97?style=for-the-badge&logo=Typescript&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-d8a789?style=for-the-badge&logo=rust&logoColor=black)
-
+![Rust](https://img.shields.io/badge/rust-%23F7A41D.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 ![React Badge](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=%2361DAFB)
 ![Next.js Badge](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
