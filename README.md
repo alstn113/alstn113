@@ -13,6 +13,10 @@
 ![NestJs Badge](https://img.shields.io/badge/Nestjs-000000?style=for-the-badge&logo=Nestjs&logoColor=red)
 ![React Native](https://img.shields.io/badge/React_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
+--- 
+
+![Rust](https://img.shields.io/badge/rust-%213167137.svg?style=for-the-badge&logo=rust&logoColor=white)
+
 <table>
   <tr>
     <td valign="top" width="50%">
