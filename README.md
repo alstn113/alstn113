@@ -11,7 +11,6 @@
 ![React Badge](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=%2361DAFB)
 ![Next.js Badge](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![NestJs Badge](https://img.shields.io/badge/Nestjs-000000?style=for-the-badge&logo=Nestjs&logoColor=red)
-![React Native](https://img.shields.io/badge/React_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 <table>
   <tr>
