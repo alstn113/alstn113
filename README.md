@@ -9,8 +9,8 @@
 ![Rust](https://img.shields.io/badge/rust-%23F7A41D.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 ![React Badge](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=%2361DAFB)
-![Next.js Badge](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![NestJs Badge](https://img.shields.io/badge/Nestjs-000000?style=for-the-badge&logo=Nestjs&logoColor=red)
+![Next.js Badge](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![NestJs Badge](https://img.shields.io/badge/Nest-000000?style=for-the-badge&logo=Nestjs&logoColor=red)
 
 <table>
   <tr>
