@@ -8,9 +8,9 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23F7A41D.svg?style=for-the-badge&logo=rust&logoColor=white)
 
-![React Badge](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=%2361DAFB)
-![Next.js Badge](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![NestJs Badge](https://img.shields.io/badge/Nest-000000?style=for-the-badge&logo=Nestjs&logoColor=red)
+![React Badge](https://img.shields.io/badge/React%20Js-000000?style=for-the-badge&logo=React&logoColor=%2361DAFB)
+![Next.js Badge](https://img.shields.io/badge/Next%20Js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![NestJs Badge](https://img.shields.io/badge/Nest%20Js-000000?style=for-the-badge&logo=Nestjs&logoColor=red)
 
 <table>
   <tr>
