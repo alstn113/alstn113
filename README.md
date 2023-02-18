@@ -15,15 +15,14 @@
 <table>
   <tr>
     <td width="50%">
-      <img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=neko113&show_icons=true&hide_border=true" align="center"/>
+      <img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kms113&show_icons=true&hide_border=true" align="center"/>
     </td>
     <td width="50%">
-      <img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=neko113&layout=compact&hide_border=true&langs_count=6&hide=html,css" align="center"/>
+      <img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kms113&layout=compact&hide_border=true&langs_count=6&hide=html,css" align="center"/>
     </td>
   </tr>
 </table>  
 
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=alstn113)](https://solved.ac/profile/alstn113) 
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fneko113%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 
