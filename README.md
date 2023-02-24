@@ -14,7 +14,7 @@
 <table>
   <tr>
     <td width="50%">
-      <img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=neko113113&show_icons=true&hide_border=true" align="center"/>
+      <img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=neko113&show_icons=true&hide_border=true" align="center"/>
     </td>
     <td width="50%">
       <img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=neko113&layout=compact&hide_border=true&langs_count=6&hide=html,css" align="center"/>
