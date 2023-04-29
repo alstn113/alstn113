@@ -3,9 +3,10 @@
 <!-- https://github.com/kyechan99/capsule-render -->
   ![header](https://capsule-render.vercel.app/api?type=waving&color=38d9a9&height=220&section=header&text=Kim%20Min%20Soo&animation=fadeIn&fontSize=70&fontColor=fff&fontAlignY=35&desc=Learn%20All%20About%20Typescript)
 
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-![TypeScript Badge](https://img.shields.io/badge/Typescript-235A97?style=for-the-badge&logo=Typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-e67700.svg?style=for-the-badge&logo=rust&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/Typescript-235A97?style=for-the-badge&logo=Typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-e67700.svg?style=for-the-badge)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge)
 
 ![React Badge](https://img.shields.io/badge/React%2018-000000?style=for-the-badge&logo=React&logoColor=%2361DAFB)
 ![Next.js Badge](https://img.shields.io/badge/Next%2013-000000?style=for-the-badge&logo=next.js&logoColor=white)
