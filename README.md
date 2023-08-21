@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- https://github.com/kyechan99/capsule-render -->
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=99ccff&height=220&section=header&text=Kim%20Min%20Soo&animation=fadeIn&fontSize=70&fontColor=fff&fontAlignY=35&desc=Learn%20All%20About%20Typescript)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=8a8a8a&height=220&section=header&text=Kim%20Min%20Soo&animation=fadeIn&fontSize=70&fontColor=fff&fontAlignY=35&desc=Learn%20All%20About%20Typescript)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/Typescript-235A97?style=for-the-badge&logo=Typescript&logoColor=white)
