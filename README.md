@@ -11,9 +11,9 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge)
 -->
 
-![React Badge](https://img.shields.io/badge/React%2018-000000?style=for-the-badge&logo=React&logoColor=%2361DAFB)
-![Next.js Badge](https://img.shields.io/badge/Next%2013-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![NestJs Badge](https://img.shields.io/badge/Nest%20Js-000000?style=for-the-badge&logo=Nestjs&logoColor=red)
+![React Badge](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=%2361DAFB)
+![Next.js Badge](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![NestJs Badge](https://img.shields.io/badge/Nest-000000?style=for-the-badge&logo=Nestjs&logoColor=red)
 
 <table>
   <tr>
