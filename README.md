@@ -3,21 +3,23 @@
 <!-- https://github.com/kyechan99/capsule-render -->
   ![header](https://capsule-render.vercel.app/api?type=waving&color=56545d&height=220&section=header&text=Kim%20Min%20Soo&animation=fadeIn&fontSize=70&fontColor=fff&fontAlignY=35)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/Typescript-235A97?style=for-the-badge&logo=Typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/Typescript-235A97?style=for-the-badge)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge)
 ![Rust](https://img.shields.io/badge/rust-e67700.svg?style=for-the-badge)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge)
 
 ![React Badge](https://img.shields.io/badge/React%2018-000000?style=for-the-badge&logo=React&logoColor=%2361DAFB)
 ![Next.js Badge](https://img.shields.io/badge/Next%2013-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![NestJs Badge](https://img.shields.io/badge/Nest%20Js-000000?style=for-the-badge&logo=Nestjs&logoColor=red)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+
 <table>
   <tr>
     <td width="50%">
       <img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alstn113&show_icons=true&hide_border=true" align="center"/>
     </td>
     <td width="50%">
-      <img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alstn113&layout=compact&hide_border=true&langs_count=6&hide=html,css" align="center"/>
+      <img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alstn113&layout=compact&hide_border=true&langs_count=6&hide=html,css,svelte,vue,shell" align="center"/>
     </td>
   </tr>
 </table>  
