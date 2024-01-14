@@ -1,18 +1,43 @@
-<div align="center">
+## Introduction
 
-<!-- https://github.com/kyechan99/capsule-render -->
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=56545d&height=220&section=header&text=Kim%20Min%20Soo&animation=fadeIn&fontSize=70&fontColor=fff&fontAlignY=35)
+- 안녕하세요! 백엔드 개발자 김민수입니다.
+- 백엔드 개발만큼이나 프론트엔드 개발을 사랑합니다.
+- 라이브러리 개발에 관심이 많습니다.
+- 깃허브나 블로그를 탐험하며 다른 사람들의 코드를 뜯어보는 것을 좋아합니다.
 
-![TypeScript](https://img.shields.io/badge/Typescript-235A97?style=for-the-badge)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge)
-![Rust](https://img.shields.io/badge/rust-e67700.svg?style=for-the-badge)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge)
+## Tech Stack
 
-![React Badge](https://img.shields.io/badge/React%2018-000000?style=for-the-badge&logo=React&logoColor=%2361DAFB)
-![Next.js Badge](https://img.shields.io/badge/Next%2013-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![NestJs Badge](https://img.shields.io/badge/Nest%20Js-000000?style=for-the-badge&logo=Nestjs&logoColor=red)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+- Languages: Typescript, Python, Rust, Java
+- Frameworks: Nestjs, React, Nextjs, Spring
 
+## Contact & Channel
+- Email | alstn113@gmail.com
+- Blog | [Tech Blog](https://alstn113.tistory.com/)
+- Solved.ac | [alstn113](https://solved.ac/profile/alstn113)
+
+## Experience
+- 부경대학교 컴퓨터공학전공 19학번 (2019.03 ~ 휴학)
+- [부경대학교 프로그래밍 동아리 WAP](https://github.com/pknu-wap) (2022.03 ~ )
+- [우아한테크코스 6기 백엔드](https://github.com/woowacourse) (2024.02 ~ 2024.11)
+
+
+## Projects
+
+<details>
+  <summary><strong>Web</strong></summary>
+  
+  - [Emotions](https://github.com/alstn113/Emotions) 마크다운 형식의 시리즈를 작성할 수 있는 커뮤니티 블로그 (2023.01 ~ 2023.04)
+
+</details>
+<details>
+  <summary><strong>Library</strong></summary>
+  
+  - [wap-ui](https://github.com/pknu-wap/wap-ui) 리액트 디자인 시스템 (2022.09 ~ 2022.12)
+  - [wap-router](https://github.com/pknu-wap/wap-router) 리액트 라우팅 라이브러리 (2023.05 ~ 2023.06)
+  - [wap-state](https://github.com/pknu-wap/wap-state) 리액트 상태 관리 라이브러리 (2023.05 ~ 2023.06)
+</details>
+
+## Github Stats
 <table>
   <tr>
     <td width="50%">
@@ -25,4 +50,3 @@
 </table>  
 
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=alstn113)](https://solved.ac/profile/alstn113)  [![npm](https://img.shields.io/static/v1?label=npm&message=packages&color=%23CB3837)](https://www.npmjs.com/~alstn113)  
-</div>
