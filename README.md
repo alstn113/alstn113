@@ -49,9 +49,6 @@
     </td>
   </tr>
 </table>  
-
-<div align="center">
   
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=alstn113)](https://solved.ac/profile/alstn113)  [![npm](https://img.shields.io/static/v1?label=npm&message=packages&color=%23CB3837)](https://www.npmjs.com/~alstn113)    
 
-</div>
