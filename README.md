@@ -27,6 +27,7 @@
   <summary><strong>Web</strong></summary>
   
   - [Emotions](https://github.com/alstn113/Emotions) 마크다운 형식의 시리즈를 작성할 수 있는 커뮤니티 블로그 (2023.01 ~ 2023.04)
+  - [collab-note](https://github.com/pknu-wap/collab-note) CRDT와 WebRTC를 이용한 실시간 문서수정 및 화상공유 (2023.03 ~ 2023.05)
 
 </details>
 <details>
