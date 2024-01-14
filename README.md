@@ -17,7 +17,7 @@
 
 ## Experience
 - 부경대학교 컴퓨터공학전공 19학번 (2019.03 ~ 휴학)
-- [부경대학교 프로그래밍 동아리 WAP](https://github.com/pknu-wap) (2022.03 ~ )
+- [부경대학교 프로그래밍 동아리 WAP](https://github.com/pknu-wap) (2022.03 ~ 진행중)
 - [우아한테크코스 6기 백엔드](https://github.com/woowacourse) (2024.02 ~ 2024.11)
 
 
