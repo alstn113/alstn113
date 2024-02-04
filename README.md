@@ -12,7 +12,7 @@
 
 ## Contact & Channel
 - Email | alstn113@gmail.com
-- Blog | [Tech Blog](https://alstn113.tistory.com/)
+- Blog | [Tech Blog](https://velog.io/@alstn113/posts)
 - Solved.ac | [alstn113](https://solved.ac/profile/alstn113)
 
 ## Experience
