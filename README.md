@@ -1,9 +1,8 @@
 ## Introduction
 
-- 안녕하세요! Backend Developer 김민수입니다.
-- Backend 개발만큼이나 Frontend 개발을 사랑합니다.
-- Library 작동 원리 파악이나 개발에 관심이 많습니다.
-- Github나 Blog를 탐험하며 다른 사람들의 코드를 뜯어보는 것을 좋아합니다.
+- 안녕하세요! 개발자 김민수입니다.
+- 라이브러리나 프레임워크의 작동 원리 파악과 개발에 관심이 많습니다.
+- 깃허브나 블로그, 오픈소스를 탐험하며 코드를 뜯어보는 것을 좋아합니다.
 
 ## Contact & Channel
 - Email | alstn113@gmail.com
