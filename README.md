@@ -4,6 +4,11 @@
 - 라이브러리나 프레임워크의 작동 원리 파악과 개발에 관심이 많습니다.
 - 깃허브나 블로그, 오픈소스를 탐험하며 코드를 뜯어보는 것을 좋아합니다.
 
+## Contact & Channel
+- Email | alstn113@gmail.com
+- Blog | [Tech Blog](https://velog.io/@alstn113/posts)
+- Solved.ac | [alstn113](https://solved.ac/profile/alstn113)
+
 ## Github Stats
 <table>
   <tr>
