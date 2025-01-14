@@ -4,6 +4,11 @@
 - 라이브러리나 프레임워크의 작동 원리 파악과 개발에 관심이 많습니다.
 - 깃허브나 블로그, 오픈소스를 탐험하며 코드를 뜯어보는 것을 좋아합니다.
 
+## Contanct & Channel
+
+- [이메일](alstn113@gmail.com)
+- [개발 블로그](https://alstn113.tistory.com/)
+
 ## Github Stats
 <table>
   <tr>
