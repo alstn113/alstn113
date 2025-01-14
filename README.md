@@ -6,8 +6,8 @@
 
 ## Contanct & Channel
 
-- [이메일](alstn113@gmail.com)
-- [개발 블로그](https://alstn113.tistory.com/)
+- [Email](alstn113@gmail.com)
+- [Tech Blog](https://alstn113.tistory.com/)
 
 ## Github Stats
 <table>
