@@ -6,7 +6,7 @@
 
 ## Contanct & Channel
 
-- [Email](alstn113@gmail.com)
+- [Email](mailto:alstn113@gmail.com)
 - [Tech Blog](https://alstn113.tistory.com/)
 
 ## Github Stats
