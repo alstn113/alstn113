@@ -7,7 +7,7 @@
 ## Contact & Channel
 
 - [이메일](mailto:alstn113@gmail.com)
-- [기술 블로그](https://alstn113.tistory.com/)
+- [개발 블로그](https://alstn113.tistory.com/)
 
 ## 프레임워크 · 라이브러리 개발 목록
 > 프레임워크와 라이브러리의 내부 동작 방식와 설계를 이해해보기 위해 직접 구현해본 프로젝트 목록입니다.
