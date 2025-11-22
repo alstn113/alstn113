@@ -18,7 +18,7 @@
     <th width="400"></th>
     <th width="400">Frontend</th>
   </tr>
-  <tr>
+  <tr align="center">
     <td>
       <a
         href="https://github.com/alstn113/spring-lab/tree/main/resilience4j-circuitbreaker"
@@ -33,7 +33,7 @@
       </a>
     </td>
   </tr>
-  <tr>
+  <tr align="center">
     <td>
       <a
         href="https://github.com/alstn113/spring-lab/tree/main/distributed-lock-impl"
@@ -48,7 +48,7 @@
       </a>
     </td>
   </tr>
-  <tr>
+  <tr align="center">
     <td>
       <a href="https://alstn113.tistory.com/57">
         멱등키 헤더 기반 중복 요청 방지 시스템 개발
@@ -63,7 +63,7 @@
       </a>
     </td>
   </tr>
-  <tr>
+  <tr align="center">
     <td>
       <a href="https://github.com/alstn113/spring-security-impl">
         Spring Security 구현
